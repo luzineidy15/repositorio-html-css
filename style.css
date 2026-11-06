@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(43, 33, 40);
+}
+nav{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    color: rgb(219, 176, 206);
+    height: 30px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10vh;
+    text-transform: capitalize;
+}
+h2{
+    
+    height: 50p;
+    width: 400px;
+     
+    font-size: 3em;
+    color: white;
+    padding: 20px 30px;
+    border-radius: 30px;
+    
+
+
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(219, 179, 206);
+    text-transform: uppercase;
+    font-style: italic;
+    
+}
+span{
+    color: rgb(219, 176, 206);
+}
+p{
+    height: 50p;
+    width: 400px;
+     
+    font-size: 1em;
+    color:  rgb(219, 176, 206);
+    padding: 20px 30px;
+    border-radius: 30px;
+}
+img{
+    border-radius: 10px;
+    
+}
+figcaption{
+    font-size: 1.5em;
+    color:  rgb(219, 176, 206);
+}
+table{
+    color: white;
+}
